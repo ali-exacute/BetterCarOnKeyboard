@@ -1,7 +1,7 @@
 # Better Car On Keyboard
 _also known as lowerTorque_
 
-## _check out the FiveM forum here : PLACEHOLDER_
+## _check out the [FiveM forum post](https://forum.cfx.re/t/better-car-on-keyboard-drive-smooth-like-you-are-on-controller/5278379)_
 
 #### This script modifies vehicle torque in real-time when specific keys are pressed, allowing players to adjust vehicle acceleration dynamically, similar to gradual throttle control with a controller. Using keyboard inputs, the script adjusts torque to make a vehicle accelerate faster or slower based on specified torque levels.
 
